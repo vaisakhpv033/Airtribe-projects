@@ -1,0 +1,10 @@
+Alice borrowed: Book: Python 101 by A. Rao (ID 1)
+Could not borrow: Item 'Python 101 (ID 1)' is not available for borrowing.
+Bob borrowed: Magazine: Science Monthly, Issue July 2024 (ID 2)
+Could not borrow: Member 'Bob (ID 102)' has reached the borrowing limit of 1 items.
+Could not return: Item 'Python 101 (ID 1)' was not borrowed by member 'Bob (ID 102)'.
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: Science Monthly, Issue July 2024 (ID 2) -> late fee for 3 days: Rs 3
+DVD: Inception, Duration 148 mins (ID 3) -> late fee for 3 days: Rs 15
+Total items created: 3
+Python 101 (ID 1)-availability: False
